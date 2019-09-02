@@ -40,7 +40,19 @@ public class BlushCommand extends InteractionCommand {
             "https://i.imgur.com/8XzsQ8v.gif",
             "https://i.imgur.com/iCWneqB.gif",
             "https://i.imgur.com/etHFA8z.gif",
-            "https://i.imgur.com/5Hs93Q7.gif"
+            "https://i.imgur.com/5Hs93Q7.gif",
+            "https://i.imgur.com/gd37yvr.gif",
+            "https://i.imgur.com/vQ7rLby.gif",
+            "https://i.imgur.com/nOMfuBW.gif",
+            "https://i.imgur.com/WuCrlrz.gif",
+            "https://i.imgur.com/4CqtSTx.gif",
+            "https://i.imgur.com/9vKwAmw.gif",
+            "https://i.imgur.com/ntCVuN7.gif",
+            "https://i.imgur.com/zvxsyl1.gif",
+            "https://i.imgur.com/XcoVx96.gif",
+            "https://i.imgur.com/QHXFXIS.gif",
+            "https://i.imgur.com/mFc0bnR.gif",
+            "https://i.imgur.com/kSL8tNp.gif"
         );
     }
 

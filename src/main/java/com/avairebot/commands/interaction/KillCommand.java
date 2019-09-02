@@ -36,11 +36,21 @@ public class KillCommand extends InteractionCommand {
     @Override
     public List<String> getInteractionImages() {
         return Arrays.asList(
-            "https://i.imgur.com/8Ryi8xQ.gif",
+            "https://i.imgur.com/syprmM7.gif",
             "https://i.imgur.com/hGCGVmZ.gif",
             "https://i.imgur.com/mHTunac.gif",
             "https://i.imgur.com/xWkNtE5.gif",
-            "https://i.imgur.com/1gVPkev.gif"
+            "https://i.imgur.com/1gVPkev.gif",
+            "https://i.imgur.com/YgMECDb.gif",
+            "https://i.imgur.com/DffTaNd.gif",
+            "https://i.imgur.com/F7okh9a.gif",
+            "https://i.imgur.com/mtRnLjF.gif",
+            "https://i.imgur.com/R9Duvim.gif",
+            "https://i.imgur.com/LB3sgUN.gif",
+            "https://i.imgur.com/X6Mtwni.gif",
+            "https://i.imgur.com/eDUDVx0.gif",
+            "https://i.imgur.com/xktqPiy.gif",
+            "https://i.imgur.com/HBmHYXt.gif"
         );
     }
 

@@ -39,9 +39,15 @@ public class BiteCommand extends InteractionCommand {
             "https://i.imgur.com/qcPNLOH.gif",
             "https://i.imgur.com/t89dF2n.gif",
             "https://i.imgur.com/fPCg6Or.gif",
-            "https://i.imgur.com/NWBokoF.gif",
+            "https://i.imgur.com/2kZYlxJ.gif",
             "https://i.imgur.com/h0FfIKf.gif",
-            "https://i.imgur.com/dnOBA0s.gif"
+            "https://i.imgur.com/dnOBA0s.gif",
+            "https://i.imgur.com/m03GJaO.gif",
+            "https://i.imgur.com/jnYugKG.gif",
+            "https://i.imgur.com/T4Sf2dq.gif",
+            "https://i.imgur.com/rnswA9A.gif",
+            "https://i.imgur.com/8NUzKz4.gif",
+            "https://i.imgur.com/1vXyI1J.gif"
         );
     }
 
